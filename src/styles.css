@@ -3,6 +3,14 @@
     margin-top: 20px;
 }
 
+body {
+  padding-bottom: 50px;
+}
+
+.card-img{
+  width: 10px;
+}
+
 .animated {
     -webkit-animation-duration: 1s;
     animation-duration: 1s;
